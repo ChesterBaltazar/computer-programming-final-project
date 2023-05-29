@@ -1,4 +1,4 @@
-Welcome to WeLEARN
+Welcome to WeLEARN<br>
 Thank you for visiting WeLEARN! This website aims to []. Here, you'll find a variety of related content, resources, or services to benefit the visitor.
 
 Features:
