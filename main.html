@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>WeLEARN</title>
+        <meta charset="Utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            *{
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+            body{
+                display: flex;
+                background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(blk\ grn.jpg);
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                height: 100vh;
+                width: auto;
+            }
+            .container{
+                margin: auto;
+                width: 500px;
+                max-width: 90%;
+            }
+            .container form{
+                width: 100%;
+                height: 100%;
+                padding: 20px;
+                background: white;
+                border-radius: 19px;
+                cursor: pointer;
+                font-family: 'Courier New', Courier, monospace;
+            }
+            .container form h1{
+                text-align: center;
+                margin-bottom: 24px;
+                color: #222;
+                font-family: 'Courier New', Courier, monospace;
+            }
+            .container form .form-control{
+                width: 100%;
+                height: 40px;
+                background: white;
+                border-radius: 7px;
+                border: 1px solid silver;
+                margin: 10px 0 18px 0;
+                padding: 0 10px ;
+            }
+            .container form .btn{
+                margin-left: 50%;
+                transform: translateX(-50%);
+                color: white;
+                box-shadow: 10px 10px 10px rgba(7, 7, 7, 0.2);
+                padding: 8px 24px;
+                border-radius: 20px;
+                background: green;
+                border: none;
+                transition: all 0.2s ease;
+                cursor: pointer;
+                font-family: 'Courier New', Courier, monospace;
+            }
+            .container .btn:active{
+                transform scale(0.96);
+            }
+        </style>
+    </head>
+    <body>
+    <div class="container">
+        <form action="">
+            <h1>WeLEARN</h1>
+        <div class="form-group">
+            <img src="email.png" style="width: 24px; height: 23px; object-fit: contain;">
+            <label for="">Email/Username</label>
+            <input type="text" class="form-control" placeholder="Email/Username" required>
+        </div>
+            <br>
+        <div class="form-group">
+            <img src="password2.png" style="width: 24px; height: 28px; object-fit: contain;">
+            <label for="">Password</label>
+            <input type="password" class="form-control" placeholder="Password" required>
+        </div>
+            <input type="submit" value="Login" class="btn" required>
+        </form>
+    </div>
+    </body>
+</html>
