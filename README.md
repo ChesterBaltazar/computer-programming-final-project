@@ -1,5 +1,5 @@
 Welcome to WeLEARN<br>
-Thank you for visiting WeLEARN! This website aims to []. Here, you'll find a variety of related content, resources, or services to benefit the visitor.
+Thank you for visiting WeLEARN! This website aims to . Here, you'll find a variety of related content, resources, or services to benefit the visitor.
 
 Features:
 
@@ -18,3 +18,8 @@ Facebook:https://www.facebook.com/MKB0ss/https://www.facebook.com/MKB0ss/
 LinkedIn:https://www.linkedin.com/in/chester-baltazar-075816275/
 
 We look forward and hope you have a great experience on WeLEARN!
+
+git branch -m main <BRANCH>
+git fetch origin
+git branch -u origin/<BRANCH> <BRANCH>
+git remote set-head origin -a
