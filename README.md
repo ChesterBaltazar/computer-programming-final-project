@@ -6,7 +6,7 @@ Features:
 Feature 1: Home Page.
 Feature 2: About Us.
 Feature 3: Contact Information.
-Feature 4: CTA buttons
+Feature 4: CTA buttons 
 
 Home Page
 
