@@ -8,6 +8,14 @@ Feature 2: About Us.
 Feature 3: Contact Information.
 Feature 4: CTA buttons
 
+Home Page
+
+About Us
+
+Contact Information
+
+CTA buttons
+
 Feedback and Support
 We value your feedback and are here to assist you. If you have any questions, suggestions, or encounter any issues while using WeLEARN, please reach out to my email or contact form.
 
