@@ -8,11 +8,7 @@ Feature 2: About Us. <br>
 Feature 3: Contact Information. <br>
 Feature 4: CTA buttons 
 
-Home Page
-
-About Us
-
-Contact Information
+Home Page <br>
 
 CTA buttons
 
